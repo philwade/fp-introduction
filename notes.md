@@ -35,3 +35,4 @@ example
 		- looks familiar, no?
 		- tests will be easy for the immutable parts, the other parts need few if any tests
 	- this was just a quick sample, there is a lot more to dig into, getting rid of exceptions, avoiding primitives, map, reduce, filter, currying, things other languages do that are harder to express in C# or JS
+	- redux is what this looks like when applied to a visual model, reducers explicitly modify state, components tell them what they want to do
